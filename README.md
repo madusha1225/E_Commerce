@@ -30,7 +30,7 @@ The e-commerce application allows administrators to manage products, categories,
 ## Screenshots
 
 ### Login Page
-![Login Page](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.06.16%20(1).jpeg)
+![Login Page](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221422.png)
 
 ### Sign Up Page
 ![Sign Up Page](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221158.png)
@@ -45,40 +45,40 @@ The e-commerce application allows administrators to manage products, categories,
 ![Cart Page](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221244.png)
 
 ### My Orders Page
-![My Orders Page](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.49%20(1).jpeg)
+![My Orders Page](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221342.png)
 
 ### My Account
-![My Account](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.49%20(4).jpeg)
+![My Account](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221405.png)
 
 ### View Customers
-![View Customers](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.06.16.jpeg)
+![View Customers](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221440.png)
 
 ### View Orders
-![View Orders](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221229.png)
+![View Orders](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221452.png)
 
 ### Add Products
-![Add Products](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.34.jpeg)
+![Add Products](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221504.png)
 
 ### Update Products
-![Update Products](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.47%20(1).jpeg)
+![Update Products](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221522.png)
 
 ### Delete Products
-![Delete Products](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.40.jpeg)
+![Delete Products](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221514.png)
 
 ### View Products
-![View Products](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.47.jpeg)
+![View Products](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221532.png)
 
 ### Add Categories
-![Add Categories](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.49.jpeg)
+![Add Categories](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221543.png)
 
 ### Update Categories
-![Update Categories](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.48.jpeg)
+![Update Categories](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221602.png)
 
 ### Delete Categories
-![Delete Categories](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.48%20(1).jpeg)
+![Delete Categories](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221553.png)
 
 ### View Categories
-![View Categories](src/main/java/lk/ijse/ecommerce/ss/WhatsApp%20Image%202025-01-26%20at%2020.17.48%20(3).jpeg)
+![View Categories](src/main/java/lk/ijse/ecommerce/ss/Screenshot%202025-01-26%20221614.png)
 
 ---
 
@@ -96,7 +96,7 @@ Watch the application in action on [YouTube](https://youtu.be/jjux4pRpI8E?si=oMJ
 ---
 
 ## Submission Details
-- GitHub Repository: [E-Commerce]()
+- GitHub Repository: [E-Commerce](https://github.com/madusha1225/E_Commerce.git)
 - YouTube Video: [Watch](https://youtu.be/jjux4pRpI8E?si=oMJUc4J7wmGu6cgP)
 
 ---
